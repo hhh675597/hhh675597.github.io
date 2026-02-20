@@ -41,7 +41,7 @@ a:focus {
   position: fixed;
   top: 0;
   left: max(0px, calc((100vw - 1100px) / 2));
-  width: 240px;
+  width: 130px;
   height: 100vh;
   padding: 36px 24px;
   border-right: 1px solid var(--border);
